@@ -37,11 +37,12 @@ In the initial brainstorming stage of the project, we took a look at Stack Overf
 
 ### User-side Wireframes:
 
-![login](./wireframes/login.png)
-![home](./wireframes/home.png)
-![questions](./wireframes/questions.png)
-![answers](./wireframes/answers.png)
-![profile](./wireframes/profile.png)
+![loginw](./ReadMe_T3/Login.png)
+![accountw](./ReadMe_T3/Account.png)
+![homew](./ReadMe_T3/Home.png)
+![questionsw](./ReadMe_T3/Questions.png)
+![answeredw](./ReadMe_T3/Answered.png)
+![profilew](./ReadMe_T3/Profile.png)
 
 ## Development Process
 
