@@ -1,5 +1,7 @@
 # Interactive Development 200 Term 4 - Openflow
 
+![logo](./ReadMe_T3/logo.png)
+
 ## About the project:
 
 In our current roles as a fullstack developers, we embarked on a project to develop a full MERN stack application that's similar to the popular website, Stack Overflow . One particularly exciting aspect of this endeavor was the opportunity to delve into the code with the endpoint of creating this application for students from our own university. Given that Stack Overflow is already such a widely used website we made it our mission to make it as similar as possible but also "fixing" the pain points that we all had with it. This lead to a more UI focused website that is easier to maneuver.<br></br>
