@@ -1,4 +1,4 @@
-# Interactive Development 200 Term 4 - Mareli Lourens, Tebogo Ramolobeng, Cameron Godwin, Tristan Storm
+# Interactive Development 200 Term 4 - Openflow
 
 ## About the project:
 
